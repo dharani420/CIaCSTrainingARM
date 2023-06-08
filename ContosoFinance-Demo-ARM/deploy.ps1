@@ -13,8 +13,8 @@ $resourceGroupLocation = "WestEurope"  #location
 # $templateFilePath = "CIaCSTrainingARM-ARM\ARM-Templates\template.json"
 # $parametersFilePath = "CIaCSTrainingARM-ARM\ARM-Templates\paramters.json"
 
-$templateFileURI = 'https://raw.githubusercontent.com/DharaniVerity/CIaCSTrainingARM/main/ContosoFinance-Demo-ARM/ARM-Templates/template.json'
-$parametersFileURI = 'https://raw.githubusercontent.com/DharaniVerity/CIaCSTrainingARM/main/ContosoFinance-Demo-ARM/ARM-Templates/paramters.json'
+$templateFileURI = 'https://raw.githubusercontent.com/Dharani/CIaCSTrainingARM/main/ContosoFinance-Demo-ARM/ARM-Templates/template.json'
+$parametersFileURI = 'https://raw.githubusercontent.com/Dharani/CIaCSTrainingARM/main/ContosoFinance-Demo-ARM/ARM-Templates/paramters.json'
 
 
 Function RegisterRP {
